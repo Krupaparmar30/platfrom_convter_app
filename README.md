@@ -1,6 +1,27 @@
 # platfrom_convter_app
 
+
 A new Flutter project.
+
+ Contact Management App is designed to help users efficiently manage their personal and professional contacts. With a user-friendly interface and robust features, it allows seamless access to contact information anytime, anywhere.
+ 
+Cross-Platform Support 📱:
+
+Works seamlessly on both Android and iOS platforms.
+CRUD Operations :
+
+Add new contacts .
+View a list of saved contacts .
+Edit existing contacts .
+Delete contacts .
+Local Storage (SQL Database):
+
+All contact data is stored locally on the device using SQLite.
+Provides fast  and secure  access to contact information without the need for an internet connection.
+Dark and Light Theme Support:
+
+Users can toggle between dark and light themes to suit their preferences.
+Saves the user's preferred theme mode across sessions.
 
 <img src="https://github.com/user-attachments/assets/0ec6ff24-7d89-44b0-a342-917f7cf6cb3a" height=28% width=32%>
 <img src="https://github.com/user-attachments/assets/2d52381a-ae18-43e2-bb80-0041e7ae8b9d" height=28% width=32%>
